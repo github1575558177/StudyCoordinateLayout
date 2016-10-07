@@ -4,6 +4,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
+/**
+ * CoordinatorLayout、AppbarLayout、CollapsingToolbarLayout 以及Toolbar 等的混合使用
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
